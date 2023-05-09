@@ -356,5 +356,4 @@ module.exports = {
     }),
     require("tailwindcss-radix")(),
   ],
-  
 }
